@@ -1,4 +1,4 @@
-# User Behavior & Acquisition Analytics — Looker Dashboard
+# User Behavior & Acquisition Analytics - Looker Dashboard
 
 **Built a 3-section interactive Looker dashboard analyzing user 
 acquisition, funnel conversion, platform behavior, and demographics 
