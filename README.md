@@ -18,7 +18,7 @@ levers actually sit.
 
 ## Tools & Technologies
 
-- Google Looker — Explores, Looks, dashboard construction, filters, 
+- Google Looker - Explores, Looks, dashboard construction, filters, 
   pivot, funnel visualization, geographic mapping
 - Built using Google Cloud's Looker lab environment with a 
   pre-configured ecommerce Explore
